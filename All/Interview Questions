@@ -1,0 +1,6 @@
+ Set<Integer> numSet = new HashSet<>();
+        for (int num : nums) {
+            numSet.add(num);
+        }
+ArrayList<Integer> numbers = new ArrayList<>();
+nubmbers.add(i);
